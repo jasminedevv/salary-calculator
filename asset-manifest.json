@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/salary-calculator/static/css/main.7f0591d5.chunk.css",
-    "main.js": "/salary-calculator/static/js/main.dfe3d599.chunk.js",
-    "main.js.map": "/salary-calculator/static/js/main.dfe3d599.chunk.js.map",
+    "main.js": "/salary-calculator/static/js/main.6802718b.chunk.js",
+    "main.js.map": "/salary-calculator/static/js/main.6802718b.chunk.js.map",
     "runtime~main.js": "/salary-calculator/static/js/runtime~main.78511c19.js",
     "runtime~main.js.map": "/salary-calculator/static/js/runtime~main.78511c19.js.map",
     "static/css/2.4c3f0650.chunk.css": "/salary-calculator/static/css/2.4c3f0650.chunk.css",
-    "static/js/2.e3f4fc0c.chunk.js": "/salary-calculator/static/js/2.e3f4fc0c.chunk.js",
-    "static/js/2.e3f4fc0c.chunk.js.map": "/salary-calculator/static/js/2.e3f4fc0c.chunk.js.map",
+    "static/js/2.96e558d7.chunk.js": "/salary-calculator/static/js/2.96e558d7.chunk.js",
+    "static/js/2.96e558d7.chunk.js.map": "/salary-calculator/static/js/2.96e558d7.chunk.js.map",
     "index.html": "/salary-calculator/index.html",
-    "precache-manifest.a98abe7a4dce7d18df559666d67ed77f.js": "/salary-calculator/precache-manifest.a98abe7a4dce7d18df559666d67ed77f.js",
+    "precache-manifest.9aac3db82aa53c8af9714bde2a89e724.js": "/salary-calculator/precache-manifest.9aac3db82aa53c8af9714bde2a89e724.js",
     "service-worker.js": "/salary-calculator/service-worker.js",
     "static/css/2.4c3f0650.chunk.css.map": "/salary-calculator/static/css/2.4c3f0650.chunk.css.map",
     "static/css/main.7f0591d5.chunk.css.map": "/salary-calculator/static/css/main.7f0591d5.chunk.css.map",
-    "static/media/semantic.min.css": "/salary-calculator/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/salary-calculator/static/media/logo.5d5d9eef.svg"
+    "static/media/semantic.min.css": "/salary-calculator/static/media/outline-icons.ef60a4f6.woff"
   }
 }
