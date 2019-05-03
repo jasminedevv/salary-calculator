@@ -4,7 +4,11 @@ import './App.css';
 import { Input, Header, Container, Divider } from 'semantic-ui-react'
 
 function legible(num) {
+  if (num == "") {
+    return ""
+  } else {
   return parseInt(num)
+  }
 }
 
 class App extends Component {
