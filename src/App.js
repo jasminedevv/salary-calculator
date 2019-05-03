@@ -116,7 +116,10 @@ class App extends Component {
         onChange={this.calculateWeek}
         />
       <br/><br/>
-      <p>Use me to convert hourly pay to monthly and yearly based on how many hours per week you work.</p>
+      <p>Convert hourly pay to monthly and yearly based on hours in a workweek.</p>
+      <p>Numbers are rounded to the nearest integer and there are 4.3 weeks in a month.</p>
+      <br></br><br></br>
+      <a href="https://twitter.com/lacunahag">❤ a lacunahag project</a>
       </Container>
       </div>
     );
