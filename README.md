@@ -1,3 +1,7 @@
+A simple calculator to quickly convert between monthly, hourly, and yearly pay depending on how long your workweek is.
+
+## Check it out [here](https://howareyougonnapayforit.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
